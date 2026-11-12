@@ -1,0 +1,11 @@
+params,mean_test_score,std_test_score,rank_test_score
+"{'clf__C': 0.5, 'clf__class_weight': 'balanced'}",0.6531273099315723,0.004920181509966956,1
+"{'clf__C': 1, 'clf__class_weight': 'balanced'}",0.6531239173199159,0.0018503431451744846,2
+"{'clf__C': 2, 'clf__class_weight': 'balanced'}",0.6478078314966171,0.0008074939707132862,3
+"{'clf__C': 5, 'clf__class_weight': 'balanced'}",0.6370818828923346,0.0009667078328320609,4
+"{'clf__C': 10, 'clf__class_weight': 'balanced'}",0.6291296498172506,0.0016691041689416736,5
+"{'clf__C': 2, 'clf__class_weight': None}",0.6289987359058775,0.004277629082506999,6
+"{'clf__C': 5, 'clf__class_weight': None}",0.6279085715609881,0.003205162296599679,7
+"{'clf__C': 1, 'clf__class_weight': None}",0.6257766430483205,0.004210648698881871,8
+"{'clf__C': 10, 'clf__class_weight': None}",0.6246373827367503,0.002160880598819016,9
+"{'clf__C': 0.5, 'clf__class_weight': None}",0.6118498653525172,0.004947316539588327,10
